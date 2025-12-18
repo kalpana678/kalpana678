@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**kalpana678/kalpana678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kalpana  
 
-Here are some ideas to get you started:
+I am a fresher Data Analyst passionate about working with data and extracting meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently focusing on:
+- SQL for data querying and analysis  
+- Python for data cleaning, analysis, and visualization  
+- Statistics for data-driven decision making  
+- Power BI for interactive dashboards  
+
+📌 This GitHub contains:
+- Practice notebooks and SQL queries  
+- Data analysis projects using real datasets  
+- Step-by-step explanations for learning  
+
+🎯 Career Objective:
+Seeking an entry-level Data Analyst opportunity to apply analytical skills and build industry experience.
+
+ 
+
+
+
